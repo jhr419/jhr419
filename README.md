@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jhr419
+- 👋 Hi, I’m Henry
 - 👀 I’m interested in stm32 dev, opencv, NN
 - 🌱 I’m currently learning NN
 - 💞️ I’m looking to collaborate on ...
