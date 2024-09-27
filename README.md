@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henry
-- 👀 I’m interested in stm32 dev, opencv, NN
-- 🌱 I’m currently learning NN
+- 👀 I’m interested in stm32 dev, Difusion Model, ML
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 1160375083@qq.com
 
