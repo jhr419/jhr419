@@ -1,9 +1,54 @@
-- 👋 Hi, I’m HenryJin
-- 👀 I’m good at-
-   Embedded Development
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : 1160375083@qq.com
+# 👋 Hello World! I'm HenryJin 
+
+```diff
++-----------------------------------------------------------------------+
+|  🎓 Undergraduate at BUPT in Telecommunication Engineering & Management  |
+|  💻 Passionate Developer | 🤖 Robotics Enthusiast | 🚀 Future Innovator  |
++-----------------------------------------------------------------------+
+```
+
+## 🛠️ Tech Stack 
+```python
+def my_skills():
+    languages = ["C/C++", "Python", "Java", "HTML"]
+    embedded = ["STM32", "Arduino", "RTOS"]
+    web_dev = ["Vue3", "JavaScript"]
+    robotics = ["ROS", "SLAM", "Sensor Fusion"]
+    return f"""
+    print("⚙️ Embedded Systems: {embedded}")
+    print("🕸️ Web Development: {web_dev}")
+    print("🤖 Robotics Tools: {robotics}")
+    """
+
+my_skills()
+```
+
+## 🔭 Current Interests & Projects
+```mermaid
+graph LR
+    A[Robotics] --> B[Autonomous Systems]
+    A --> C[Robot Localization & Navigation]
+    D[AI] --> E[Reinforcement Learning]
+    D --> F[Machine Learning]
+    B --> G[Drone Autonomy]
+    C --> H[SLAM Algorithms]
+```
+
+## 🤖 Fun Robotics Fact
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Did you know?\n");
+    printf("The word 'robot' comes from the Czech word 'robota'\n");
+    printf("meaning 'forced labor' or 'drudgery'!\n");
+    return 0;
+}
+```
+
+## 📫 How to Reach Me
+Gmail: 1160375082@qq.com | jinhaoran419@gmail.com | jinhaoran@bupt.edu.cn (preferred)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhr419&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
