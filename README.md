@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 1160375083@qq.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhr419)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 jhr419/jhr419 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
