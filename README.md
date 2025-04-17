@@ -1,10 +1,10 @@
 # 👋 Hello World! I'm HenryJin 
 
 ```diff
-+-----------------------------------------------------------------------+
-|  🎓 Undergraduate at BUPT in Telecommunication Engineering & Management  |
++----------------------------------------------------------------------------+
+|  🎓 Undergraduate at BUPT in Telecommunication Engineering & Management   |
 |  💻 Passionate Developer | 🤖 Robotics Enthusiast | 🚀 Future Innovator  |
-+-----------------------------------------------------------------------+
++----------------------------------------------------------------------------+
 ```
 
 ## 🛠️ Tech Stack 
