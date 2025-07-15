@@ -1,11 +1,9 @@
 # 👋 Hello World! I'm HenryJin 
 
 
-+----------------------------------------------------------------------------+
-|  🎓 Undergraduate at BUPT in Telecommunication Engineering & Management   |
+🎓 Undergraduate at BUPT in Telecommunication Engineering & Management
 
-|  💻 Passionate Developer | 🤖 Robotics Enthusiast | 🚀 Future Innovator  |
-+----------------------------------------------------------------------------+
+ 💻 Passionate Developer | 🤖 Robotics Enthusiast | 🚀 Future Innovator
 
 ## 🛠️ Tech Stack 
 ```python
