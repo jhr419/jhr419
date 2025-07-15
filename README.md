@@ -1,12 +1,12 @@
 # 👋 Hello World! I'm HenryJin 
 
-```diff
+
 +----------------------------------------------------------------------------+
 |  🎓 Undergraduate at BUPT in Telecommunication Engineering & Management   |
 
 |  💻 Passionate Developer | 🤖 Robotics Enthusiast | 🚀 Future Innovator  |
 +----------------------------------------------------------------------------+
-```
+
 ## 🛠️ Tech Stack 
 ```python
 def my_skills():
@@ -29,7 +29,7 @@ graph LR
     A[Robotics] --> B[Autonomous Systems]
     A --> C[Robot Localization & Navigation]
     D[AI] --> E[Reinforcement Learning]
-    D --> F[Machine Learning]
+    D --> F[NLP]
     B --> G[Drone Autonomy]
     C --> H[SLAM Algorithms]
 ```
